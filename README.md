@@ -63,7 +63,7 @@ Academia_Accenture2025/
 ### Clonar o repositório
 
 ```bash
-git clone https://github.com/henriquie-tech/Academia_Accenture2025.git
+git clone https://github.com/henriquie-tech/Academia_Accentue2025.git
 cd Academia_Accenture2025
 
 ```
